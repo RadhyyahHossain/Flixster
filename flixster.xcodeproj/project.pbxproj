@@ -15,6 +15,7 @@
 		C38EAE56251EB68400DFE51C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C38EAE54251EB68400DFE51C /* LaunchScreen.storyboard */; };
 		C38EAE61251EB68400DFE51C /* flixsterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C38EAE60251EB68400DFE51C /* flixsterTests.swift */; };
 		C38EAE6C251EB68400DFE51C /* flixsterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C38EAE6B251EB68400DFE51C /* flixsterUITests.swift */; };
+		C38EAE7A251EB75E00DFE51C /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C38EAE79251EB75E00DFE51C /* MoviesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C38EAE67251EB68400DFE51C /* flixsterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flixsterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C38EAE6B251EB68400DFE51C /* flixsterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flixsterUITests.swift; sourceTree = "<group>"; };
 		C38EAE6D251EB68400DFE51C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C38EAE79251EB75E00DFE51C /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				C38EAE4B251EB68300DFE51C /* SceneDelegate.swift */,
 				C38EAE4D251EB68300DFE51C /* ViewController.swift */,
 				C38EAE4F251EB68300DFE51C /* Main.storyboard */,
+				C38EAE79251EB75E00DFE51C /* MoviesViewController.swift */,
 				C38EAE52251EB68400DFE51C /* Assets.xcassets */,
 				C38EAE54251EB68400DFE51C /* LaunchScreen.storyboard */,
 				C38EAE57251EB68400DFE51C /* Info.plist */,
@@ -262,6 +265,7 @@
 				C38EAE4E251EB68300DFE51C /* ViewController.swift in Sources */,
 				C38EAE4A251EB68300DFE51C /* AppDelegate.swift in Sources */,
 				C38EAE4C251EB68300DFE51C /* SceneDelegate.swift in Sources */,
+				C38EAE7A251EB75E00DFE51C /* MoviesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
