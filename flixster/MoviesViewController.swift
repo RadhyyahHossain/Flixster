@@ -8,6 +8,8 @@
 
 import UIKit
 
+import AlamofireImage
+
 class MoviesViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
 
     @IBOutlet weak var tableView: UITableView!
@@ -79,6 +81,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         let posterPath = movie["poster_path"] as! String
         let posterUrl = URL(string: baseUrl + posterPath)
         
+        cell.posterView.af_setImage(withURL: posterUrl!)
         
         return cell
     }
