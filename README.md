@@ -14,9 +14,9 @@
 ### App Walkthrough GIF
 
 <br />
-<img src="https://imgur.com/PG69aRQ" title='Radhyyah Hossain_Flix' width='250' alt='Flix App Walkthrough' />
+<img src="https://imgur.com/PG69aRQ.gif" title='Radhyyah Hossain_Flix' width='250' alt='Flix App Walkthrough' />
 <br />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ### Notes
-It was really exciting to learn how to create a more details when the movies were selected. I also enjoyed making a new tab that most apps use. 
+It was really exciting to learn how to create a more details when the movies were selected. I also enjoyed making a tabs at the bottom since that is what most apps use. 
