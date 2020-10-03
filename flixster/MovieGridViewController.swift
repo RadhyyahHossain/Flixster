@@ -10,9 +10,9 @@ import UIKit
 import AlamofireImage
 
 class MovieGridViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate {
+     
 
     @IBOutlet weak var collectionView: UICollectionView!
-     
     var movies = [[String:Any]]()
     
     override func viewDidLoad() {

@@ -188,7 +188,7 @@
                                         </collectionViewCellContentView>
                                         <size key="customSize" width="176" height="259"/>
                                         <connections>
-                                            <outlet property="posterView" destination="6Gy-bI-NZy" id="viP-8x-W4V"/>
+                                            <outlet property="posterView" destination="WCL-es-Mo6" id="lpH-Pa-TNU"/>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>
@@ -199,7 +199,7 @@
                     </view>
                     <navigationItem key="navigationItem" title="Superhero" id="bKz-6F-UDa"/>
                     <connections>
-                        <outlet property="collectionView" destination="6XL-cm-iUH" id="j3e-o7-vKa"/>
+                        <outlet property="collectionView" destination="6XL-cm-iUH" id="RCy-7r-YZ4"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ZxP-54-oot" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
