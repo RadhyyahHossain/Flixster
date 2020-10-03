@@ -43,9 +43,6 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
             
             self.tableView.reloadData()
             
-       
-            
-            
             
             
               // TODO: Get the array of movies
