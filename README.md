@@ -19,4 +19,4 @@
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ### Notes
-It was really exciting to learn how to create a more details when the movies were selected. I also enjoyed making a tabs at the bottom since that is what most apps use. 
+It was really exciting to learn how to create a more details when the movies were selected. I also enjoyed making a tabs at the bottom since that's what most apps use. 
